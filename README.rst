@@ -261,6 +261,10 @@ added to your GELF logs:
 
     my_logger.debug('Hello Graylog from John.')
 
+Additional Changes
+==================
+Changes to send only specific level logs to the graylog server irrespective of the global log level set at the application level.
+
 Contributors
 ============
 
