@@ -265,13 +265,6 @@ Additional Changes
 ==================
 Changes to send only specific level logs to the graylog server irrespective of the global log level set at the application level.
 
-Contributors
-============
-
-  * Sever Banesiu
-  * Daniel Miller
-  * Tushar Makkar
-  * Nathan Klapstein
 
 .. _GELF: https://docs.graylog.org/en/latest/pages/gelf.html
 .. _logging.Handler: https://docs.python.org/3/library/logging.html#logging.Handler
